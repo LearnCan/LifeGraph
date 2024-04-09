@@ -2,9 +2,9 @@
 
 ## Introduction
 
-To maximize the potential of every human, we can now leverage AI to interpet the entirety of a person and adapt to individual's life experiences, skills, education and learning modalities. To achieve this, a single, secure, logical entity capturing all kinds of learning, skills, and experiences from year to year, from early education onwards, including non-traditional experiences is required. 
+To maximize the potential of every human being, we can now leverage AI to interpret the entirety of a person and adapt to an individual's life experiences, skills, education, and learning modalities. To achieve this, a single, secure, logical entity capturing all kinds of learning, skills, and experiences from year to year, from early education onwards, including non-traditional experiences is required. 
 
-For example: When a child goes from first grade to second grade, any AI learning platform will need a comprehensive understanding of discrete areas where a student needs challenging or where the child needs support. Similarily an adult who was raised on a dairy farm may have untapped potential in a lab environment having a basic understanding of sterilization. A Lifegraph helps surface connections in a person's life to provide them with personalized, adaptive learning paths, opportunities and more chances of success. 
+For example: When a child goes from first grade to second grade, any AI learning platform will need a comprehensive understanding of discrete areas where a student needs challenging or where the child needs support. Similarly, an adult who was raised on a dairy farm may have untapped potential in a lab environment having a basic understanding of sterilization. A Lifegraph helps surface connections in a person's life to provide them with personalized, adaptive learning paths, opportunities, and more chances of success. 
 
 The Life Graph is a protocol, covering the data schema and secure access conceptualized to be owned by the individual, engineered with a focus on security and privacy, ensuring levels of access are granted solely by and from the individual owner. 
 
@@ -51,4 +51,4 @@ To learn more or to join this initiative, please reach out to us at colm@learnca
 
 The Life Graph standards and contributions will be released under the [MIT License](LICENSE), promoting open and accessible innovation.
 
-Thank you for considering contributing to the Life Graph project. Together, we can build a foundation that truly captures and enhances the learning journey of individuals everywhere.
+Thank you for considering contributing to the Life Graph project. Together, we can build a foundation of education for the next 1000 years. A protocol that truly captures and enhances the learning journey of individuals everywhere.
